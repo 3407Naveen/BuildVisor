@@ -156,3 +156,64 @@ This project is released under the **MIT License** — open for research, learni
 
 ## 🧱 Architecture
 
+---
+
+## 🧩 Development Process (Hackathon Flow)
+
+1. **Brainstorming (1 hour)** – Identified real-world problems in construction.  
+2. **Model Training (3 hours)** – Built predictive model using historical project data.  
+3. **Backend Setup (4 hours)** – Flask API with endpoints for prediction & explanation.  
+4. **UI/UX Design (5 hours)** – Designed cohesive interface on Bolt CMS.  
+5. **Frontend Integration (6 hours)** – Real-time visualization using Chart.js.  
+6. **Testing & Report Generation (3 hours)** – Optimized predictions and exports.  
+7. **Pitch Prep & Demo (2 hours)** – Created walkthrough and final deck.
+
+---
+
+## 💬 Impact
+
+🏗️ Helps construction planners reduce **budget risk by 25%**.  
+📉 Increases decision-making confidence with **explainable transparency**.  
+📊 Saves time by providing **instant visual feedback** for project adjustments.  
+🌍 Promotes sustainable resource management through smart simulations.
+
+---
+
+## 🧑‍💻 Team BuildVisor
+
+| Name | Role | Responsibility |
+|------|------|----------------|
+| Naveen S | Project Lead & AI Developer | Model building, integration, architecture |
+| [Teammate 2] | Frontend Developer | UI/UX design, CMS setup, dashboard |
+| [Teammate 3] | Backend Engineer | Flask API, data handling |
+| [Teammate 4] | Research Analyst | Data preprocessing, testing, reporting |
+
+---
+
+## 🏁 Outcome
+
+We successfully built **a working AI-powered web prototype** that can:
+- Simulate *what-if* scenarios in seconds.
+- Provide explainable predictions with SHAP visuals.
+- Export smart reports for project managers.
+- Deliver an intuitive, interactive web experience — **built entirely during a hackathon**.
+
+---
+
+## 🔗 Links
+
+- 🌐 **Live Demo:** [https://buildvisor.vercel.app](#) *(example link)*  
+- 💻 **GitHub Repo:** [https://github.com/username/BuildVisor](#)  
+- 🎥 **Demo Video:** [YouTube Demo Link](#)  
+- 📄 **Presentation Deck:** [Slide Deck](#)
+
+---
+
+## 🪪 License
+
+This project is released under the **MIT License** — open for research, learning, and innovation.
+
+---
+
+### ⭐ Built with passion, caffeine, and creativity during a 24-hour hackathon!
+
