@@ -1,6 +1,7 @@
 # 🏗️ BuildVisor: AI-Powered What-If Construction Planner
 
-> **Built in a 24-hour Hackathon Challenge — Smart Planning, Predictive Insights, and Explainable AI for the Construction Industry.**
+> **BuildVisor is made for the Aurigo Infracode Hackathon 2025, an online event held from November 3rd to 7th, 2025, focusing on digital transformation in construction using AI, IoT, AR/VR, Blockchain, and GIS.
+It was built under the “What-If Analysis with Explainable AI**
 
 ---
 
