@@ -33,9 +33,9 @@ export default function Team() {
       email: 'yuvarajraja002@gmail.com',
     },
     {
-      name: 'James Liu',
+      name: 'Praveen ',
       role: 'Full Stack Engineer',
-      avatar: 'JL',
+      avatar: 'PN',
       bio: 'React & ML pipeline specialist',
       color: 'from-[#FFC857] to-[#FF9F1C]',
     },
