@@ -13,7 +13,7 @@ export default function Team() {
       email: '3407naveen@gaail.com',
     },
     {
-      name: 'Darsh Chatrani C',
+      name: 'Darsh Chatrani ',
       role: 'Penetration Tester',
       avatar: 'DC',
       bio: 'Expert in cybersecurity and penetration testing',
